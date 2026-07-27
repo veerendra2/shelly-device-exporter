@@ -3,7 +3,7 @@ module github.com/veerendra2/shelly_device_exporter
 go 1.26.4
 
 require (
-	github.com/alecthomas/kong v1.15.0
+	github.com/alecthomas/kong v1.16.0
 	github.com/go-playground/validator/v10 v10.30.3
 	github.com/icholy/digest v1.1.0
 	github.com/onsi/ginkgo/v2 v2.32.0
