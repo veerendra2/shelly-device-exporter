@@ -1,6 +1,6 @@
 module github.com/veerendra2/shelly_device_exporter
 
-go 1.26.6
+go 1.27.0
 
 require (
 	github.com/alecthomas/kong v1.16.1
