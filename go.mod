@@ -7,7 +7,7 @@ require (
 	github.com/go-playground/validator/v10 v10.30.3
 	github.com/icholy/digest v1.2.0
 	github.com/onsi/ginkgo/v2 v2.32.1
-	github.com/onsi/gomega v1.42.1
+	github.com/onsi/gomega v1.43.0
 	github.com/prometheus/client_golang v1.24.1
 	github.com/veerendra2/gopackages v1.2.3
 	go.yaml.in/yaml/v2 v2.4.4
